@@ -1,0 +1,15 @@
+case1:
+  casename: 登录成功用例
+  msg: 登录成功
+  pwd: 123456
+  user: hami
+case2:
+  casename: 登录失败用例
+  msg: 登录失败
+  pwd: 1111111
+  user: haha
+case3:
+  casename: 登录成功用例
+  msg: 登录成功
+  pwd: 123456
+  user: yulisa
